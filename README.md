@@ -1,1 +1,1 @@
-# gama-no-javascript-basico
+# Primeira aplicação em Javascript, validador de CPF.
